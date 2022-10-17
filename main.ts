@@ -1,4 +1,4 @@
-// The RightLeg function helps you to adjust the servo used for the right arm of the Kapakai robot.
+// The RightLeg function helps you to adjust the servo used for the right leg of the Kapakai robot.
 // By pressing the A button you turn up the angle by 10 degrees.
 // By pressing the B button you turn down the angle by -10 degrees.
 // By pressing both A+B you send the chosen angle to the servo and see how it uses the new angle. Then you can press A or B to adjust and A+B to choose the angle you want.
